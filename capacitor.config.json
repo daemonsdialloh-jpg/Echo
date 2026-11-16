@@ -1,0 +1,6 @@
+{
+  "appId": "com.echo.lecteur",
+  "appName": "Écho",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}

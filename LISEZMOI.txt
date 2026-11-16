@@ -1,0 +1,5 @@
+1. Crée un dépôt GitHub (gratuit) et envoie-y tout le contenu de ce dossier (y compris .github).
+2. Onglet "Actions" > "Build APK" > attends ~5 min.
+3. Ouvre l'exécution terminée > "Artifacts" > télécharge echo-apk.
+4. Dézippe, envoie app-debug.apk sur ton téléphone et installe-le
+   (autorise "sources inconnues" si Android le demande).
